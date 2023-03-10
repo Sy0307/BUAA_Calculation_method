@@ -1,5 +1,8 @@
 # BUAA_Calculation_method
 
+![image.png](https://s2.loli.net/2023/03/10/3eEoTwCRrpI8hL5.png)
+[图源 ろびぞう](https://www.pixiv.net/users/46764132)
+
 给某某同学代做的北航作业。
 
 好好学习了一些数学知识（bushi）
