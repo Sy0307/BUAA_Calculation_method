@@ -38,7 +38,7 @@ void Init()
 
     printf("Please input the rank of the matrix:\n");
     scanf_s("%d", &r);
-    
+
     Init_Matrix(r);
 
     b = (double *)malloc(sizeof(double) * r);
